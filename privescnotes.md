@@ -16,3 +16,7 @@ Yaratma qaydası
 
     dilruba:$1$.wwZIHut$tbO9u/NbSlGA/IkwxDcEX0:0:0:root:/root:/bin/bash
     passwd----dil1123
+
+Sudo icazələrini yoxlamaq
+   
+    sudo -l
