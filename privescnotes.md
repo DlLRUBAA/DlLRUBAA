@@ -22,4 +22,5 @@ Sudo icazələrini yoxlamaq
     sudo -l
 
 Getcap
-    getcap -r / 2>/dev/null
+     
+     getcap -r / 2>/dev/null
